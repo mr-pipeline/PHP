@@ -1,3 +1,3 @@
 # PHP
 
-Set Apache Handler to run .php files just with lowercase extension!
+Set Apache Handler (in Server) to run .php files just with lowercase extension!
